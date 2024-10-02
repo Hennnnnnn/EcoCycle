@@ -1,3 +1,44 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e99375a8-c49f-4e3f-afab-a44a66e6f022" width="400" alt="Laravel Logo">
+</p>
+
+## About EcoCycle
+
+EcoCycle merupakan website marketplace yang mendukung produk ramah lingkungan yang  selaras dengan Sustainable Development Goal (SDG) ke-12, yaitu Responsible Consumption and Production. SDG ke-12 berfokus pada memastikan pola produksi dan konsumsi yang berkelanjutan, sehingga platform ini bisa berperan penting dalam mendukung perubahan perilaku konsumen dan produsen untuk lebih bertanggung jawab dalam penggunaan sumber daya.
+
+## HUBUNGAN WEBSITE DENGAN SDG 12
+
+1. Marketplace ini memungkinkan pengguna untuk membeli produk yang ramah lingkungan, terbuat dari bahan daur ulang, atau produk organik yang minim dampak lingkungan. Hal ini mendorong konsumsi produk yang mendukung keberlanjutan.
+2. Produsen yang menjual di platform ini diwajibkan menggunakan metode produksi yang ramah lingkungan, seperti penggunaan energi terbarukan, pengurangan limbah, dan penggunaan bahan-bahan yang dapat didaur ulang.
+3. Marketplace ini juga akan memberikan informasi rinci tentang asal-usul bahan produk dan dampak lingkungan, sehingga konsumen dapat membuat keputusan pembelian yang lebih sadar dan bertanggung jawab.
+
+## FITUR-FITUR WEBSITE
+1. Produk Daur Ulang dan Organik
+    - Deskripsi Lengkap Produk: Setiap produk memiliki detail bahan serta dampaknya terhadap lingkungan. Ini memberikan transparansi mengenai bagaimana produk tersebut mendukung tujuan keberlanjutan.
+    - Label Sertifikasi: Setiap produk yang ramah lingkungan akan diberikan label khusus seperti "Daur Ulang", "Organik", atau "Low Carbon", membantu konsumen menemukan produk yang sesuai dengan prinsip keberlanjutan.
+2. Komunitas Pengguna
+    - EcoForum: Forum diskusi bagi pengguna untuk berbagi pengalaman, tips tentang gaya hidup berkelanjutan, dan ulasan produk ramah lingkungan yang dibeli di marketplace.
+    - Loyalty Program: Pengguna akan dibagi menjadi 4 tingkat sesuai dengan frekuensi pembeliannya yaitu : “EcoNewbie”, “EcoAlly”, “EcoWarrior”, “EcoGuardian”.
+3. Sistem Reward Berkelanjutan
+    - Green Points: Pengguna akan mendapatkan poin setiap kali mereka membeli produk ramah lingkungan. Poin ini bisa ditukar dengan diskon, donasi untuk proyek pelestarian lingkungan, atau produk eksklusif.
+4. Edukasi Konsumen
+   - Learning Hub: Bagian khusus yang menyediakan artikel, video, dan panduan praktis tentang konsumsi dan produksi berkelanjutan, serta cara untuk mengurangi jejak karbon dalam kehidupan sehari-hari.
+   - EcoChallenge: Fitur ini mengajak pengguna untuk mengikuti tantangan bulanan yang berkaitan dengan gaya hidup ramah lingkungan, seperti mengurangi penggunaan plastik atau beralih ke produk daur ulang.
+5. Partnership dengan Produsen dan NGO
+   - Producer Profiles: Halaman khusus untuk setiap produsen yang menjual produk di marketplace, menampilkan visi mereka terhadap keberlanjutan dan inisiatif ramah lingkungan yang mereka terapkan.
+   - NGO Collaboration: Marketplace ini bekerja sama dengan organisasi lingkungan dan NGO untuk memberikan dukungan finansial atau logistik bagi proyek-proyek keberlanjutan melalui sebagian keuntungan yang dihasilkan.
+
+Dengan fitur-fitur ini, website marketplace ini berfungsi sebagai platform yang tidak hanya mendukung perdagangan berkelanjutan, tetapi juga mendidik konsumen dan produsen tentang pentingnya konsumsi dan produksi yang bertanggung jawab, sejalan dengan tujuan SDG 12. 
+
+## CARA MENDAPATKAN PROFIT
+1. Komisi dari Penjualan Produk
+   - Marketplace dapat mengambil persentase komisi dari setiap penjualan produk yang terjadi melalui platform. Misalnya, sekitar 5-15% dari harga jual setiap produk. 
+2. Iklan dan Promosi
+    - Penjual dapat membayar untuk mempromosikan produk mereka di dalam marketplace dengan format iklan yang terintegrasi dengan konten produk lainnya.
+    - Penjual dapat membayar tambahan untuk menampilkan produk mereka di halaman utama atau mendapatkan lebih banyak eksposur melalui fitur “featured product” atau promosi khusus.
+3. Layanan Langganan Konsumen
+    - Pengguna dapat membayar biaya keanggotaan untuk mendapatkan keuntungan seperti diskon eksklusif, akses awal ke produk tertentu, atau layanan pengiriman gratis untuk produk tertentu.
+- - - - 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
